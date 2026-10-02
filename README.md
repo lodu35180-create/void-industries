@@ -238,3 +238,7 @@ Modern evergreen browsers (Chrome, Firefox, Edge, Safari — last 2 major versio
 ## License
 
 Free to use for learning and personal projects. The fictional brand content ("VOID INDUSTRIES") is placeholder material — swap in your own.
+
+---
+
+**Built by [Girish Lade](https://ladestack.in)** — free to use for learning and personal projects.
