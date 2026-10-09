@@ -245,4 +245,3 @@ Free to use for learning and personal projects. The fictional brand content ("VO
 
 ---
 
-https://github.com/lodu35180-create
